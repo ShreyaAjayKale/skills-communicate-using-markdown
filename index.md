@@ -1,12 +1,3 @@
-# HI
-#  This 
-#   Is 
-#    New
-#     Thing
-#      Learnt
+# Added Image!
 
-
-
-
-
-Added Headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
